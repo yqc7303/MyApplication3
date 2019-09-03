@@ -1,0 +1,13 @@
+class MethodProvide{
+    fun a(){
+
+    }
+
+    fun c(){
+
+    }
+
+    fun m(method:MethodProvide.()->Unit){
+
+    }
+}

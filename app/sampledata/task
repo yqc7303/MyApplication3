@@ -1,0 +1,43 @@
+{
+  "returnInfo":"请求成功",
+  "returnNo":"0000",
+  "secure":"0",
+  "content":{
+    "classTaskType":"11",
+    "classTaskPO":{
+      "classTaskId":"8cd465f5-084e-4675-81ef-1ef06acb234f",
+      "taskName":"1",
+      "title":"ls测试教材——勿动 Week1",
+      "endTime":"2019-07-12 23:59:59",
+      "taskId":"3054b54c-ab38-4e41-ac75-e72fdb53c279",
+      "cl2":"1",
+      "totalStuNum":1,
+      "className":"HM班小学3班",
+      "createDate":"2019-07-11 15:51:35"
+    },
+    "completedList":[
+      {
+        "stuId":"af45c7e30e1c4359b5db3fdfbed5846f",
+        "myTaskId":"f11d7701e49d466d9d1da886e04b2b49",
+        "userName":"学生55",
+        "studentExaminationId":"8667f9c44c2f4281b63916d7a610eed1",
+        "finishState":"1",
+        "finishDate":"2019-07-11 15:52:54",
+        "delayedSubmission":"0",
+        "highScore":100,
+        "headKey":"http://resheadimg.civaonline.cn/d441ad52-55c9-4f70-8779-1c0a51b29a31.png?v=1",
+        "minTime":0,
+        "isHaveComment":1,
+        "commentId":"f3577fd9b64342ce9a06d12986750d50",
+        "comment":"jjjjj",
+        "commentGrade":"A",
+        "commentAudio":[
+
+        ]
+      }
+    ],
+    "unCompletedList":[
+
+    ]
+  }
+}
